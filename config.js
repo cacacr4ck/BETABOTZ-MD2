@@ -13,24 +13,24 @@
 // Betabotz = digunakan hampir di semua fitur kecuali linkshort
 // Botcahx  = digunakan untuk linkshort saja
 
-global.owner = ['6285842647866']  
-global.mods = ['6285842647866'] 
-global.prems = ['6285842647866']
-global.nameowner = 'Lann'
-global.numberowner = '6285842647866' 
-global.mail = 'fxacbapi.my.id@gmail.com' 
-global.dana = '6281395861695'
-global.pulsa = '6281395861695'
-global.gopay = '6281395861695'
-global.namebot = 'BETABOTZ-MD'
-global.gc = 'https://chat.whatsapp.com/G4f1fTpz9zL4EH3FyIcaPR'
-global.web = 'https://github.com/BOTCAHX'
-global.instagram = 'https://instagram.com/prm2.0'
-global.wm = 'Beta BOT-MD'
+global.owner = ['6283821362840','6281511073726','6282246997688']  
+global.mods = ['6283821362840','6281511073726','6282246997688']
+global.prems = ['6283821362840','6281511073726','6282246997688']
+global.nameowner = 'BAYU RIZKI ZULFIKRI'
+global.numberowner = '6283821362840' 
+global.mail = 'bayurizkizulfikri@gmail.com' 
+global.dana = '6283821362840'
+global.pulsa = '6283821362840'
+global.gopay = '6283821362840'
+global.namebot = 'Zull-Assistant'
+global.gc = 'https://chat.whatsapp.com/JxkJzuEXzGQ55C8lgmodjw'
+global.web = 'https://bayu-r-z.blogspot.com/'
+global.instagram = 'https://instagram.com/uby_015'
+global.wm = 'Zull-Assistant'
 global.watermark = wm
 global.wm2 = '⫹⫺ Beta Bot'
-global.wm3 = '© Lann'
-global.wm4 = 'made by BetaBotz-MD'
+global.wm3 = '© BAYU RIZKI ZULFIKRI'
+global.wm4 = 'made by BAYU RIZKI ZULFIKRI'
 global.wait = '_*Tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
@@ -40,17 +40,17 @@ global.packname = 'Made with'
 global.author = 'Bot WhatsApp'
 
 //---- image thumbnail 
-global.thumb = 'https://telegra.ph/file/ec75e8bd53238f11603d9.jpg'
+global.thumb = './foto2.jpg'
 
 //===> Apikey
-global.lann = 'Your_Key_Here' //isi apikey mu https://api.betabotz.org
-global.btc = 'Your_Key_Here'//Isi apikey di https://api.botcahx.live
+global.lann = '7jh7USsh' //isi apikey mu https://api.betabotz.org
+global.btc = 'tAhTSeRa'//Isi apikey di https://api.botcahx.live
 global.APIs = {   
   lann: 'https://api.betabotz.org',
   btc: 'https://api.botcahx.live'
 }
 global.APIKeys = { 
-  'https://api.betabotz.org': 'Your_Key' //isi apikey mu https://api.betabotz.org
+  'https://api.betabotz.org': '7jh7USsh' //isi apikey mu https://api.betabotz.org
 }
 
 global.multiplier = 45
